@@ -1,0 +1,75 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Estilos por sección */
+.seccion-introduccion {
+    background-color: #d6c80c;
+    padding: 20px;
+}
+
+.seccion-caracteristicas {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.seccion-beneficios {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.seccion-entorno {
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+.seccion-ventajas {
+    padding: 20px;
+}
+
+.seccion-importancia {
+    padding: 20px;
+}
+
+.seccion-version {
+    padding: 20px;
+}
+
+.seccion-utilidad {
+    padding: 20px;
+}
+
+
+
+/* Estilos para elementos específicos */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: #333;
+    color: #fff}
